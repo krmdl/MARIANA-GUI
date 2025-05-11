@@ -4,14 +4,14 @@
 
 ![MARIANA-GUI Screenshot](https://github.com/krmdl/MARIANA-GUI/blob/main/Capture.PNG)
 
-## 🧰 Features
+## 🧰 Features (//soon)
 
 - Real-time sensor data display
 - Mission start and stop control
 - Camera view and recording control
 - Depth/Heading hold modes
-- User-friendly, intuitive interface with colored buttons
 
+  
 ## ⚙️ Installation
 
 Clone the project to your computer:
