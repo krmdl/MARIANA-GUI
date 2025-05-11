@@ -3,7 +3,7 @@
 
 **MARIANA-GUI**, otonom su altı aracı (AUV) görevlerinin yönetimini kolaylaştırmak amacıyla geliştirilmiş, kullanıcı dostu bir kontrol arayüzüdür. Sistem; görev başlatma/durdurma, derinlik, yön, pil durumu ve kamera gibi birçok bileşeni anlık olarak takip etmenizi sağlar.
 
-![MARIANA-GUI Screenshot](.Capture.png)
+![MARIANA-GUI Screenshot](Capture.png)
 
 ## 🧰 Özellikler
 
