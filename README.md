@@ -1,51 +1,50 @@
-
 # 🌊 MARIANA-GUI
 
-**MARIANA-GUI**, otonom su altı aracı (AUV) görevlerinin yönetimini kolaylaştırmak amacıyla geliştirilmiş, kullanıcı dostu bir kontrol arayüzüdür. Sistem; görev başlatma/durdurma, derinlik, yön, pil durumu ve kamera gibi birçok bileşeni anlık olarak takip etmenizi sağlar.
+**MARIANA-GUI** is a user-friendly control interface developed to facilitate the management of autonomous underwater vehicle (AUV) missions. The system allows you to monitor many components in real-time, such as mission start/stop, depth, heading, battery status, and camera.
 
 ![MARIANA-GUI Screenshot](https://github.com/krmdl/MARIANA-GUI/blob/main/Capture.PNG)
 
-## 🧰 Özellikler
+## 🧰 Features
 
-- Gerçek zamanlı sensör verisi gösterimi
-- Görev başlatma ve durdurma
-- Kamera görüntüsü ve kayıt kontrolü
-- Derinlik/Yön sabitleme modları
-- Kullanıcı dostu, renkli butonlarla sezgisel arayüz
+- Real-time sensor data display
+- Mission start and stop control
+- Camera view and recording control
+- Depth/Heading hold modes
+- User-friendly, intuitive interface with colored buttons
 
-## ⚙️ Kurulum
+## ⚙️ Installation
 
-Projeyi kendi bilgisayarınıza klonlayın:
+Clone the project to your computer:
 
 ```bash
-git clone https://github.com/kullanici-adi/MARIANA-GUI.git
+git clone https://github.com/username/MARIANA-GUI.git
 cd MARIANA-GUI
 ```
 
-Gerekli bağımlılıkları yükleyin (örneğin Python için):
+Install required dependencies (for Python):
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🚀 Kullanım
+## 🚀 Usage
 
-Arayüzü başlatmak için:
+To start the interface:
 
 ```bash
 python main.py
 ```
 
-## 🤝 Katkı
+## 🤝 Contributing
 
-Katkıda bulunmak isterseniz, lütfen bir issue oluşturun veya direkt bir pull request gönderin:
+If you want to contribute, please create an issue or send a pull request directly:
 
-1. Fork’layın 📌  
-2. Yeni bir branch oluşturun: `git checkout -b feature/yenilik`
-3. Commit yapın: `git commit -m 'Yeni özellik eklendi'`
-4. Push edin: `git push origin feature/yenilik`
-5. PR oluşturun ✅
+1. Fork it 📌  
+2. Create your feature branch: `git checkout -b feature/new-feature`
+3. Commit your changes: `git commit -m 'Added new feature'`
+4. Push to the branch: `git push origin feature/new-feature`
+5. Create a Pull Request ✅
 
-## 📄 Lisans
+## 📄 License
 
-Bu proje [MIT](LICENSE) lisansı ile lisanslanmıştır.
+This project is licensed under the [MIT](LICENSE) license.
